@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Log file for debugging
-LOGFILE="/home/flipper/mandeye_controller/code/theta_startup.log"
-THETA_SCRIPT="/home/flipper/mandeye_controller/code/theta_button.py"
+LOGFILE="/home/slam/mandeye_controller/code/theta_startup.log"
+THETA_SCRIPT="/home/slam/mandeye_controller/code/theta_button.py"
 
 log() {
     echo "[$(date)] $1" >> "$LOGFILE"

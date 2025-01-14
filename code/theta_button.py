@@ -14,7 +14,7 @@ GCP_BUTTON_PIN = 24  # GPIO24
 GCP_LED_PIN = 20  # GPIO20
 
 # Log File
-LOG_FILE = "/home/flipper/Pictures/Theta/photo_log.txt"
+LOG_FILE = "/home/slam/Pictures/Theta/photo_log.txt"
 CURRENT_FOLDER_FILE = "/tmp/current_output_folder.txt"
 
 # Kill Processes Using GPIO or USB
